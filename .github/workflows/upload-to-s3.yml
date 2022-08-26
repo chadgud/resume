@@ -1,0 +1,12 @@
+#name: upload files to s3
+
+#on:
+#  push:
+#    branches:
+#      - main
+      
+#jobs:
+#  upload_to_s3:
+#    runs-on: ubuntu:latest
+#   container: amazon/aws-cli:latest
+    
