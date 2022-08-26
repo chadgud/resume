@@ -1,1 +1,1 @@
-# resume
+This is a project to practice using a wide variety of technologies.
